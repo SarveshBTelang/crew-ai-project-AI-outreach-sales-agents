@@ -11,6 +11,9 @@ Automated sales pipeline using CrewAI's multi-agent system to identify high-valu
   Web search using Serper API \
   Sentiment analysis using TextBlob
 
+## example
+![Example](example.png)
+
 ## Getting Started
 
 ### 1. Install Required Packages
